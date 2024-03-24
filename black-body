@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <stlye>
+      html {
+       margin: 0;
+       background-color: black;
+      }
+      h1 {
+        color: white;
+      }
+  </head>
+
+  <body>
+    <h1>Heega!! You're black!</h1>
+  </body>
+</html>
